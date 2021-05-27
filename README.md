@@ -9,12 +9,10 @@ I with my 4 team members have created this project of creating a Desktop App for
 4. Java Lang Thread class to change between multiple JFrames smoothly and effortlessly.
 5. Used JFreeChart library, which is an external jar file to show graph and comparisons graph.
 6. Used vlcj library, which is an external jar file to attach the video animation and the voice-over created by the team.
-7. Javax Windows Builder method to create the visuals in the GUI
+7. Javax Windows Builder method to create the visuals in the GUI.
 
-Attaching the whole project implementation readme file and pdf with this description to help you compile and run the code efficiently on your machine:-
-
+Here I'm attaching the whole project implementation readme file and pdf with this description to help you compile and run the code efficiently on your machine:-
 [ReadMe_FIle.pdf](https://github.com/pratvi0511/Page_Replacement_Algorithm_GUI/blob/main/ReadMe_FIle.pdf)
-
 [Operating_Systems_Lab_Project.pdf](https://github.com/pratvi0511/Page_Replacement_Algorithm_GUI/blob/main/Operating_Systems_Lab_Project.pdf)
 
 If you are still facing ambiguity about the project. Check out our YouTube video for the small implementation of the project.👇
