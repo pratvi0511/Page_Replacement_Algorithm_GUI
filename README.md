@@ -12,8 +12,8 @@ I with my 4 team members have created this project of creating a Desktop App for
 7. Javax Windows Builder method to create the visuals in the GUI
 
 Attaching the whole project implementation readme file and pdf with this description to help you compile and run the code efficiently on your machine:-
-[ReadMe_FIle.pdf](https://github.com/pratvi0511/Page_Replacement_Algorithm_GUI/blob/main/ReadMe_FIle.pdf)
 
+[ReadMe_FIle.pdf](https://github.com/pratvi0511/Page_Replacement_Algorithm_GUI/blob/main/ReadMe_FIle.pdf)
 
 [Operating_Systems_Lab_Project.pdf](https://github.com/pratvi0511/Page_Replacement_Algorithm_GUI/blob/main/Operating_Systems_Lab_Project.pdf)
 
