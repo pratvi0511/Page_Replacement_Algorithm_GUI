@@ -18,4 +18,5 @@ Here I'm attaching the whole project implementation readme file and pdf with thi
 [Operating_Systems_Lab_Project.pdf](https://github.com/pratvi0511/Page_Replacement_Algorithm_GUI/blob/main/Operating_Systems_Lab_Project.pdf)
 
 If you are still facing ambiguity about the project. Check out our YouTube video for the small implementation of the project.👇
+
 https://youtu.be/HN1q2RBZEFE
